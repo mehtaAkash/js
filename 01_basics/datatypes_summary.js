@@ -1,3 +1,5 @@
+// Datatypes are divided into two types primitive and non primitive. The classification is done on the basis of how data are stored in memoryand how they are access through the memory.
+
 //  Primitive
 
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
